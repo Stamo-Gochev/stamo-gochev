@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/stamo-gochev)  
 
-My name is Stamo and I am a software engineer [@telerik](https://www.telerik.com/) writing software with C# and JavaScript.
+My name is Stamo and I am a software engineer [@telerik](https://www.telerik.com/) building things with C# and JavaScript.
 
 - ⚡ I’m currently working on [Telerik Ui for Blazor](https://www.telerik.com/blazor-ui) - a suite of UI components for the .NET web framework Blazor that runs client-side C# code directly in the browser using WebAssembly 
 - 🛠️ Previously, I worked on [Kendo UI](https://www.telerik.com/kendo-ui) 
