@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/1857705/118231505-ec276c00-b497-11eb-8344-4cf79e5aac0a.png)
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?l=english&id=1607576156">
+
+![neon-city-1](https://user-images.githubusercontent.com/1857705/185748572-e682364d-ae61-49b8-98f7-bc2f5de8419e.jpg)
+
+</a>
 
 ![Profile views](https://gpvc.arturio.dev/stamo-gochev)
 <a href="https://www.linkedin.com/in/stamo-gochev-67501055/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
