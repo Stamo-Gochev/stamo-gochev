@@ -14,6 +14,6 @@ My name is Stamo and I am a software engineer [@telerik](https://www.telerik.com
 - 🛠️ Previously, I've worked on [Kendo UI](https://www.telerik.com/kendo-ui) and [Telerik UI for ASP.NET Core](https://www.telerik.com/aspnet-core-ui)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stamo-Gochev&theme=dracula&show=prs_merged"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stamo-Gochev&theme=highcontrast&show=prs_merged"/>
 </p>
 
