@@ -10,8 +10,9 @@
 
 My name is Stamo and I am a software engineer [@telerik](https://www.telerik.com/) building things with C# and JavaScript.
 
-- ⚡ I’m currently working on [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - a suite of UI components for the .NET web framework Blazor that runs client-side C# code directly in the browser using WebAssembly 
+- 🚀 I’m currently working on [Telerik UI for Blazor](https://www.telerik.com/blazor-ui) - a suite of UI components for the .NET web framework Blazor that runs client-side C# code directly in the browser using WebAssembly 
 - 🛠️ Previously, I've worked on [Kendo UI](https://www.telerik.com/kendo-ui) and [Telerik UI for ASP.NET Core](https://www.telerik.com/aspnet-core-ui)
+- ⚡ I am an organizer of the ["Drinks with Progress" events](https://www.meetup.com/progressbulgaria/) - a series of tech meetups focused on various topics related to the IT industry.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stamo-Gochev&theme=highcontrast&show=prs_merged"/>
